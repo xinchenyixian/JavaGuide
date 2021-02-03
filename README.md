@@ -1,5 +1,3 @@
-👍推荐 [送你一个 0.73折购买阿里云服务器的机会](https://www.aliyun.com/1111/pintuan-share?ptCode=MTUyNTA5NzQ1MTc4MDE0OHx8MTE0fDE%3D&userCode=hf47liqn)  。1核2G 84元即可薅1年，力度很大，推荐3年（不建议非人新购买，非人新可以注关一下其他云厂商活动或者用朋友/人亲的身份证购买）
-
 👍推荐 [在线阅读](https://snailclimb.gitee.io/javaguide)  (Github 访问速度比较慢可能会导致部分图片无法刷新出来) 
 
 👍推荐 [图解Java+操作系统+HTTP+计算机网络的 PDF 资料](#优质原创PDF资源)
@@ -9,7 +7,7 @@
 > 1. **介绍**：关于 JavaGuide 的相关介绍请看：[关于 JavaGuide 的一些说明](https://www.yuque.com/snailclimb/dr6cvl/mr44yt) 。PDF 版本请看：[完结撒花！JavaGuide 面试突击版来啦！](./docs/javaguide面试突击版.md) 。
 > 2. **PDF版本** ： [《JavaGuide 面试突击版》PDF 版本](#公众号) 。
 > 3. **面试专版** ：准备面试的小伙伴可以考虑面试专版：[《Java 面试进阶指南》](https://xiaozhuanlan.com/javainterview?rel=javaguide) ，
-> 4. **知识星球** : 简历指导/Java学习/面试指导/offer选择。欢迎加入[我的知识星球](https://wx.zsxq.com/dweb2/index/group/48418884588288)。
+> 4. **知识星球** : 简历指导/Java学习/面试指导/offer选择。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247497451&idx=1&sn=ea566dd64662ff8d5260f079c11c2268&chksm=cea1b920f9d630367eb80666da7b599bb610b9d61c6f956add1ee0a607ddcd61372931808877&token=804689790&lang=zh_CN#rd) 。
 > 5. **联系我** ：如要进群或者请教问题，请[联系我](#联系我) （备注来自 Github。请直入问题，工作时间不回复）。
 > 6. **转载须知** ：以下所有文章如非文首说明皆为我（Guide哥）的原创，转载在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！⛽️
 
@@ -34,12 +32,14 @@
   <tbody>
     <tr>
        <td align="center" valign="middle">
-        <a href="https://w.url.cn/s/AS6JeXA">
-          <img src="./media/sponsor/kaikeba.png" style="margin: 0 auto;width:450px" /></a>
+        <a href="https://sourl.cn/U7rukQ">
+         <img src="./media/sponsor/知识星球.png" style="margin: 0 auto;width:850px" /></a>
       </td>       
     </tr>
   </tbody>
 </table>
+
+
 
 
 
@@ -159,7 +159,7 @@
 
 ### 新特性
 
-1.  **Java 8** ：[Java 8 新特性总结](docs/java/new-features/Java8新特性总结.md)、[Java 8 学习资源推荐](docs/java/new-features/Java8教程推荐.md)、[Java8 forEach 指南](docs/java/new-features/Java8foreach指南.md)
+1.  **Java 8** ：[Java 8 新特性总结](docs/java/new-features/Java8新特性总结.md)、[Java 8 学习资源推荐](docs/java/new-features/Java8教程推荐.md)、[Java8 forEach 指南](docs/java/new-features/Java8foreach指南.md)、[Java8常用新特性总结](docs/java/new-features/java8-common-new-features.md)
 2.  **Java9~Java14** : [一文带你看遍 JDK9~14 的重要新特性！](./docs/java/new-features/一文带你看遍JDK9到14的重要新特性.md)
 
 ## 网络
@@ -177,8 +177,10 @@
 
 ### 数据结构
 
-1. [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
-2. 常见数据结构总结（正在路上）
+- **图解数据结构：**
+  1. [线性数据结构 :数组、链表、栈、队列](docs/dataStructures-algorithms/data-structure/线性数据结构.md)
+  2. [图](docs/dataStructures-algorithms/data-structure/图.md)
+- [不了解布隆过滤器？一文给你整的明明白白！](docs/dataStructures-algorithms/data-structure/bloom-filter.md)
 
 ### 算法
 
@@ -214,6 +216,7 @@
 ### Redis
 
 2. [Redis 常见问题总结](docs/database/Redis/redis-all.md)
+3. [面试/工作必备！3种常用的缓存读写策略！](docs/database/Redis/3种常用的缓存读写策略.md)
 
 ## 系统设计
 
@@ -236,9 +239,10 @@
 
 **重要知识点详解：**
 
-1. **[Spring/Spring 常用注解总结！安排！](./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结.md)** 
+1. **[Spring/Spring Boot 常用注解总结！安排！](./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结.md)** 
 2. **[Spring 事务总结](docs/system-design/framework/spring/Spring事务总结.md)** 
 3. [Spring 中都用到了那些设计模式?](docs/system-design/framework/spring/Spring-Design-Patterns.md)
+4. [面试常问：“讲述一下 SpringBoot 自动装配原理？”](https://www.cnblogs.com/javaguide/p/springboot-auto-config.html)
 
 #### MyBatis
 
@@ -330,7 +334,7 @@ RPC 让调用远程服务调用像调用本地方法那样简单。
 
 1. **RabbitMQ** : [RabbitMQ 入门](docs/system-design/distributed-system/message-queue/RabbitMQ入门看这一篇就够了.md)
 2. **RocketMQ** : [RocketMQ 入门](docs/system-design/distributed-system/message-queue/RocketMQ.md)、[RocketMQ 的几个简单问题与答案](docs/system-design/distributed-system/message-queue/RocketMQ-Questions.md)
-3. **Kafka** ：**[Kafka 常见面试题总结](docs/system-design/distributed-system/message-queue/Kafka常见面试题总结.md)**
+3. **Kafka** ：[Kafka 常见面试题总结](docs/system-design/distributed-system/message-queue/Kafka常见面试题总结.md)
 
 #### 读写分离
 
@@ -459,7 +463,6 @@ RPC 让调用远程服务调用像调用本地方法那样简单。
 ### 联系我
 
 <img src="https://cdn.jsdelivr.net/gh/javaguide-tech/blog-images-3@main/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/31603935587_.pic_hd.jpg" style="zoom:67%;" />
-
 
 ### 公众号
 
